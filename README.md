@@ -66,5 +66,5 @@ Rafeeq is a modern Islamic companion app that provides a complete Islamic experi
 # 🕌 Seerah Nabawya
 
 <p align="center">
-  <img src="screenshots/seerah_nabawya.jpg" width="280">
+  <img src="screenshots/light/seerah_nabawya.jpg" width="280">
 </p>
